@@ -9,7 +9,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Jhackns/ms-proyect.git # ruta del repositorio git
+          uri: https://github.com/Jhackns/E-comerciantes.git # ruta del repositorio git
           searchPaths: config-data
           default-label: main
           #username:
