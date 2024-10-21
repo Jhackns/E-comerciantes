@@ -1,0 +1,33 @@
+.footer {
+    background-color: #000; /* Fondo negro */
+    color: #00f7ff; /* Texto turquesa fosforescente */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer p {
+    margin-bottom: 10px;
+  }
+  
+  .footer-links {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .footer-links li {
+    display: inline;
+  }
+  
+  .footer-links a {
+    color: #00f7ff; /* Color turquesa fosforescente */
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .footer-links a:hover {
+    color: #fff; /* Cambia a blanco al hacer hover */
+  }
+  
